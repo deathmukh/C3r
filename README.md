@@ -43,6 +43,7 @@ https://c3r-two.vercel.app/
 
 ## Credits
 
+- **IRRADIANCE ON YOUTUBE**
 - **Cannon.js**: A lightweight 3D physics engine for the web.
 - **React**: A JavaScript library for building user interfaces.
 - **Three.js**: A JavaScript 3D library that makes WebGL simpler.
